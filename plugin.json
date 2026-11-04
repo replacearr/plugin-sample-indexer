@@ -1,0 +1,15 @@
+{
+  "id": "sample-torznab-indexer",
+  "name": "Replacearr Torznab Demo Indexer",
+  "version": "0.1.0",
+  "author": "Replacearr",
+  "description": "Reference Go indexer plugin demonstrating the zero-CGO Replacearr Plugin SDK over stdin/stdout JSON-RPC. Returns demo releases only.",
+  "types": [
+    "indexer"
+  ],
+  "homepage": "https://github.com/replacearr/plugin-sample-indexer",
+  "repository": "https://github.com/replacearr/plugin-sample-indexer",
+  "minReplacearrVersion": "0.1.0",
+  "entry": ".",
+  "module": "github.com/replacearr/plugin-sample-indexer"
+}
